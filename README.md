@@ -10,23 +10,23 @@ Comfortable across the full stack — Terraform, AWS, Python, and Node — I bui
 
 ## Featured Projects
 
-**Terraform-AWS-Full-Landing-Zone**  
+**[Terraform-AWS-Full-Landing-Zone](https://github.com/AllanSavageDev/Terraform-AWS-Full-Landing-Zone)**  
 A complete Terraform-driven AWS landing zone demonstrating production patterns: private VPCs, Lambda APIs, RDS, DynamoDB, CloudFront, and Secrets Manager.  
 Built to show end-to-end infrastructure automation and secure networking configurations.
 
-**Cloud-Stack-Starter**  
+**[Cloud-Stack-Starter](https://github.com/AllanSavageDev/Cloud-Stack-Starter)**  
 A modern full-stack boilerplate combining FastAPI, PostgreSQL, Next.js, and TailwindCSS.  
 Includes authentication, CRUD, and Docker orchestration — ready for immediate project development.
 
-**Starting-Point-Node-Express-API-Docker**  
+**[Starting-Point-Node-Express-API-Docker](https://github.com/AllanSavageDev/Starting-Point-Node-Express-API-Docker)**  
 A lightweight Node.js / Express REST API scaffold packaged for Docker.  
 Simple, extensible foundation for new backend projects or quick prototypes.
 
-**Starting-Point-Python-FastAPI-Docker**  
+**[Starting-Point-Python-FastAPI-Docker](https://github.com/AllanSavageDev/Starting-Point-Python-FastAPI-Docker)**  
 FastAPI backend with Docker support and raw SQL connectivity.  
 Ideal for quickly standing up modern Python microservices with JWT auth and testing hooks.
 
-**Margin Watch**  
+**[Margin Watch](https://github.com/AllanSavageDev/MarginWatch)**  
 A working trading-data dashboard built on AWS, integrating Lambda, RDS, and API Gateway.  
 Demonstrates real-time data retrieval, processing, and display with cloud-native components.
 
