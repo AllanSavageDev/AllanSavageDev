@@ -4,7 +4,10 @@
 
 I design and deploy full AWS serverless environments from scratch using Terraform and Python.  
 My recent work focuses on private-only VPC architectures, Lambda APIs, RDS/DynamoDB integrations, and CI/CD pipelines through GitHub Actions.  
-Comfortable across the full stack — Terraform, AWS, Python, and Node — I build systems that are reliable, modular, and easy to maintain.
+
+Comfortable across the full stack — Terraform, AWS, Python, and Node — I build systems that are reliable, modular, and easy to maintain.  
+Prior to my current cloud focus, I spent many years in enterprise Java environments delivering large-scale systems for financial and corporate clients.  
+Strong Linux background and solid DevOps experience round out my skillset — from scripting and automation to infrastructure provisioning and deployment workflows.
 
 ---
 
