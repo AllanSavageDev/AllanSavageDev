@@ -44,5 +44,5 @@ Demonstrates real-time data retrieval, processing, and display with cloud-native
 
 ### Contact
 
-[LinkedIn](www.linkedin.com/in/allan-savage-aws-dev)  
+[LinkedIn](https://www.linkedin.com/in/allan-savage-aws-dev)  
 [GitHub](https://github.com/AllanSavageDev)
